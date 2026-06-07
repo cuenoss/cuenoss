@@ -1,9 +1,8 @@
 # Hey, I'm Ahlam Akacha
+**Backend Engineer · AI Systems · Full-Stack**
 
-Full-Stack Developer | Backend Engineer | AI & Data Science Enthusiast
-
-Focused on backend engineering and AI systems for real-world applications.  
-I build production-ready systems using FastAPI, Node.js, PostgreSQL, and LLM-based architectures (RAG, ML), with a focus on scalable APIs and deployment.
+I build production-ready backend systems and APIs — focused on auth, role-based architectures,
+and real-world health & safety applications using FastAPI, Node.js, and PostgreSQL.
 
 ---
 
@@ -15,83 +14,32 @@ I build production-ready systems using FastAPI, Node.js, PostgreSQL, and LLM-bas
 
 ## Tech Stack
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,ts,html,css" />
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase" />
-</p>
-
-### AI / Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,vite,tailwind" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /></p>
 
 Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
-### DevOps / Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" /></p>
 
-Render · Vercel · Netlify
-
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,notion,figma" />
-</p>
+Render · Vercel · Netlify · Postman · Figma · Notion
 
 ---
 
-## What I Build
+## Projects
 
-- Scalable backend APIs (authentication, databases, business logic)
-- AI-powered applications (RAG systems, chatbots, assistants)
-- Data-driven applications (ML pipelines, analytics systems)
-- Full-stack web platforms with deployment
+**🤱 MamaConnect** — Maternal health backend with 3 user roles (User, Midwife, Admin), tiered subscriptions, wearable-based health monitoring, midwife booking, and JWT auth with audit logging.  
+`FastAPI · PostgreSQL · JWT · RBAC` · [Repo](#)
 
----
+**🔐 SmartPlate Auth API** — Secure auth service: Gmail-only signup, OTP-based login, bcrypt hashing, JWT access + refresh tokens, rate limiting, and 4 custom roles.  
+`FastAPI · JWT · OTP · bcrypt · slowapi` · [Repo](#)
 
-## Featured Projects
+**⚗️ Chemical Safety Expert System** — Rule-based inference engine for chemical compatibility and risk detection.  
+`Python · Knowledge Engineering` · [Repo](#)
 
-### MamaConnect
-AI-powered pregnancy assistant using RAG architecture  
-FastAPI · PostgreSQL · LLMs  
-Live Demo: (add link)  
-Repo: (add link)
-
----
-
-### Medical Clinic System
-Full-stack clinic management platform with authentication and role-based access  
-Node.js · React · PostgreSQL  
-Live Demo: (add link)  
-Repo: (add link)
-
----
-
-### Expert System
-Rule-based AI system for chemical safety and risk detection  
-Python · Logic systems
-
----
-
-### SmartPlate DZ
-Data analysis and ML-based nutrition intelligence system  
-Python · Machine Learning · Data Science
+**🏥 Medical Clinic System** — Full-stack clinic platform with role-based access, appointment management, and React frontend.  
+`Node.js · React · PostgreSQL` · [Repo](#)
 
 ---
 
@@ -101,15 +49,8 @@ Python · Machine Learning · Data Science
 
 ---
 
-## Current Focus
-- Docker and CI/CD pipelines
-- System design fundamentals (scalability, architecture)
-- Cloud deployment (AWS basics)
-- LLM applications and RAG systems in production
+## Currently Learning
+Docker · CI/CD · System Design · AWS · RAG in production
 
----
-
-## Open to
-- Internships (Backend / AI / Data Engineering)
-- Freelance backend development
-- Remote or onsite opportunities
+## Open To
+Internships (Backend / AI) · Freelance · Remote or on-site
