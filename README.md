@@ -24,7 +24,7 @@ Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" /></p>
 
-Render · Vercel · Netlify · Postman · Figma · Notion
+Render · Vercel · Netlify · Postman · Swagger · Figma · Notion
 
 ---
 
